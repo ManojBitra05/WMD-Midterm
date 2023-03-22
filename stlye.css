@@ -1,0 +1,29 @@
+/* Color Theme Swatches in Hex */
+.L.-H.-pf-y1-hex { color: #EEF272; }
+.L.-H.-pf-y2-hex { color: #EFF285; }
+.L.-H.-pf-y3-hex { color: #F0F2B3; }
+.L.-H.-pf-y4-hex { color: #F2F2EB; }
+.L.-H.-pf-b5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.L.-H.-pf-1-rgba { color: rgba(237, 242, 113, 1); }
+.L.-H.-pf-2-rgba { color: rgba(238, 242, 133, 1); }
+.L.-H.-pf-3-rgba { color: rgba(240, 242, 179, 1); }
+.L.-H.-pf-4-rgba { color: rgba(242, 242, 234, 1); }
+.L.-H.-pf-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.L.-H.-pf-1-hsla { color: hsla(61, 83, 69, 1); }
+.L.-H.-pf-2-hsla { color: hsla(61, 81, 73, 1); }
+.L.-H.-pf-3-hsla { color: hsla(61, 71, 82, 1); }
+.L.-H.-pf-4-hsla { color: hsla(61, 22, 93, 1); }
+.L.-H.-pf-5-hsla { color: hsla(0, 0, 5, 1); }
+
+.nav-bar {
+  display: flex;
+  background-color: rgb(39, 36, 36);
+  position: sticky;
+  top: 0;}
+
+.img {border-radius: 10px;}
+.button{mask-position: 0%;}
